@@ -1,7 +1,7 @@
 import React from 'react'
 import {Card, Accordion, Button} from 'react-bootstrap'
 const About = () => {
-    }
+    
     return (
         <div >
             <Accordion defaultActiveKey="0">
@@ -26,6 +26,6 @@ const About = () => {
             </p>
         </div>
       );
-
+    }
  
 export default About;
